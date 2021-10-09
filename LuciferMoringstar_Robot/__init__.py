@@ -29,17 +29,17 @@ HELP = """
 
 [➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT
+@GorgeousAndGloreous
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
+➥ Name : Clark
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [Anshu Sharma](t.me/Anshu888o)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://t.me/wait_a_minute_who_are_U/84)
 """
